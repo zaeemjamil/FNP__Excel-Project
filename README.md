@@ -29,6 +29,57 @@ times.
 different occasions.
 10. Product Popularity by Occasion: Identify which products are most popular during
 specific occasions
+-Dashboard Interaction <a href="https://github.com/zaeemjamil/FNP__Excel-Project/blob/main/Screenshot%20(16).png">View Dashboard</a>
+# Key Metrics
+Total Orders: 1,000
+Total Revenue: $3,520,984.00
+Average Order-Delivery Time: 5.53 days
+Average Customer Spend: $3,520.98
+# Revenue Insights
+## 1. Revenue by Occasion
+Highest revenue occasions: Anniversary, Raksha Bandhan, and Diwali.
+Other significant occasions: Birthday, Holi, Valentineʼs Day.
+Occasions drive clear spikes in sales, indicating strong seasonality and event-based
+demand.
+## 2. Revenue by Category
+Top categories:
+Cake 29%)
+Colors 21%)
+Mugs 21%)
+Plants 8%)
+Raksha Bandhan 8%)
+Soft Toys 6%)
+Sweets 6%)
+Cakes dominate, but non-food gifts (Mugs, Colors) also contribute significantly.
+## 3. Revenue by Month
+Revenue peaks in February, March, and September, aligning with major festivals and
+events.
+Notable dips in off-peak months, highlighting the importance of targeted promotions during
+low seasons.
+## 4. Revenue by Hour Order Time
+Orders are distributed throughout the day, with visible peaks in the late afternoon and
+evening hours.
+This suggests optimal marketing and customer engagement times.
+# Product and Customer Insights
+## Top 5 Products by Revenue
+
+Product Revenue (approx.)
+Dessert Box $120,000
+Doers Gift $110,000
+Harum Pack $110,000
+Magam Set $130,000
+Qila Gift $120,000
+Gift boxes and curated packs are top performers, indicating customer preference for
+bundled offerings.
+# Top 10 Cities by Orders
+
+
+
+
+
+
+
+
 
 
 
