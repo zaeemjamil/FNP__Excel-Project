@@ -5,5 +5,5 @@ order, revenue, and customer behavior insights. The analysis leverages transacti
 1,000 orders, providing actionable intelligence for business strategy, marketing, and operational
 improvements. The dashboard and supporting data files (orders, customers, products) are
 designed for interactive exploration and executive reporting.
-- <a href="https://github.com/zaeemjamil/FNP__Excel-Project/blob/main/products.csv">Dataset</a>
+- <a href="https://github.com/zaeemjamil/FNP__Excel-Project">Dataset</a>
 
