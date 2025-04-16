@@ -63,15 +63,64 @@ This suggests optimal marketing and customer engagement times.
 # Product and Customer Insights
 ## Top 5 Products by Revenue
 
-Product Revenue (approx.)
-Dessert Box $120,000
-Doers Gift $110,000
-Harum Pack $110,000
+## Product Revenue (approx.)
+Dessert Box $120,000|
+Doers Gift $110,000|
+Harum Pack $110,000|
 Magam Set $130,000
-Qila Gift $120,000
+Qila Gift $120,000|
 Gift boxes and curated packs are top performers, indicating customer preference for
 bundled offerings.
 # Top 10 Cities by Orders
+## City | Orders (approx)
+(Dhanbad 15,000)
+(Imphal 10,000)
+(Guntakal 8,000)
+(Dibrugarh 7,000)
+(Kavali 6,000)
+(Machilipatnam 5,000)
+(Panchkula 5,000)
+(Haridwar 4,000)
+(Bidhannagar 4,000)
+(Bhatpara 3,000)
+Sales are geographically diverse, with strong penetration in both metro and tier-2 cities.
+# Operational Insights
+## Order-Delivery Time: 
+Average of 5.53 days, suggesting room for improvement in logistics
+and fulfillment.
+## Customer Spend: 
+High average spend per customer, indicating effective upselling and
+product mix
+# Data Sources
+## orders.csv: 
+Transactional order data (Order ID, Customer ID, Product, Date, Time, Revenue,
+Occasion, etc.)
+## customers.csv: 
+Customer demographics and contact information.
+## products.csv:
+Product catalog and pricing.
+# Recommendations
+## Seasonal Campaigns:
+Intensify marketing around high-revenue occasions and months.
+## Product Bundling: 
+Expand curated gift packs and combos, as they drive higher revenue.
+## Logistics Optimization: 
+Reduce order-to-delivery time to enhance customer satisfaction.
+## Targeted Promotions: 
+Use city-level insights to tailor offers and expand in underpenetrated
+regions.
+## Customer Segmentation: 
+Leverage customer data for personalized marketing and loyalty
+programs.
+
+
+# Dashboard
+![Screenshot (16)](https://github.com/user-attachments/assets/463d0fe3-0399-4ed5-931c-88fad4b333c2)
+
+
+
+
+
 
 
 
